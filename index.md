@@ -1,0 +1,1103 @@
+
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="shortcut icon" href="./assets/images/favicon.ico">
+      
+      <meta name="generator" content="mkdocs+mkdocs-material#1.0.3">
+    
+    
+      
+        <title>Общие сведения - Документация Scorocode</title>
+      
+    
+    
+      <script src="./assets/javascripts/modernizr-facb31f4a3.js"></script>
+    
+    
+      
+        
+        
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="./assets/stylesheets/application-f3ab63f78a.css">
+      
+        <link rel="stylesheet" href="./assets/stylesheets/application-02ce7adcc2.palette.css">
+      
+      
+    
+    
+  </head>
+  
+  
+  
+  
+    <body data-md-color-primary="blue" data-md-color-accent="light-blue">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="." title="Документация Scorocode" class=" md-logo  md-header-nav__button">
+          
+            <img src="./logo.png" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <span class="md-flex__ellipsis md-header-nav__title">
+          
+            
+              
+                <span class="md-header-nav__parent">
+                  Scorocode
+                </span>
+              
+            
+            Общие сведения
+          
+        </span>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+          
+<div class="md-search" data-md-component="search">
+  <div class="md-search__overlay"></div>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false">
+      <label class="md-icon md-search__icon" for="search"></label>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+          </div>
+      </div>
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <i class=" md-logo  md-nav__button">
+      
+        <img src="./logo.png">
+      
+    </i>
+    Документация Scorocode
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1" checked>
+    
+    <label class="md-nav__link" for="nav-1">
+      Scorocode
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-1">
+        Scorocode
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Общие сведения
+      </label>
+    
+    <a href="." title="Общие сведения" class="md-nav__link md-nav__link--active">
+      Общие сведения
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="Общие сведения" class="md-nav__link">
+    Общие сведения
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="Основные возможности сервиса:" class="md-nav__link">
+    Основные возможности сервиса:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="Пользователи" class="md-nav__link">
+    Пользователи
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="main/main1/" title="Начало работы" class="md-nav__link">
+        Начало работы
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="main/main2/" title="Личный кабинет" class="md-nav__link">
+        Личный кабинет
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app/" title="Работа с приложением" class="md-nav__link">
+        Работа с приложением
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app1/" title="Аналитика приложения" class="md-nav__link">
+        Аналитика приложения
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app2/" title="Данные приложения" class="md-nav__link">
+        Данные приложения
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app3/" title="Индексы" class="md-nav__link">
+        Индексы
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app4/" title="Триггеры" class="md-nav__link">
+        Триггеры
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app5/" title="Серверный код приложения" class="md-nav__link">
+        Серверный код приложения
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/bots/" title="Боты Telegram" class="md-nav__link">
+        Боты Telegram
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="app/app6/" title="Настройки приложения" class="md-nav__link">
+        Настройки приложения
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      HTTP API
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-2">
+        HTTP API
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/appapi/" title="Работа с приложением" class="md-nav__link">
+        Работа с приложением
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi1/" title="Пользователи" class="md-nav__link">
+        Пользователи
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi2/" title="Данные" class="md-nav__link">
+        Данные
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi3/" title="Файлы" class="md-nav__link">
+        Файлы
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi4/" title="Сообщения" class="md-nav__link">
+        Сообщения
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi5/" title="Скрипты" class="md-nav__link">
+        Скрипты
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="httpapi/httpapi6/" title="Статистика" class="md-nav__link">
+        Статистика
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      JavaScript SDK
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-3">
+        JavaScript SDK
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/javascript/" title="JavaScript SDK" class="md-nav__link">
+        JavaScript SDK
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode/" title="Scorocode" class="md-nav__link">
+        Scorocode
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.Object/" title="Scorocode.Object" class="md-nav__link">
+        Scorocode.Object
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.Query/" title="Scorocode.Query" class="md-nav__link">
+        Scorocode.Query
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.UpdateOps/" title="Scorocode.UpdateOps" class="md-nav__link">
+        Scorocode.UpdateOps
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.User/" title="Scorocode.User" class="md-nav__link">
+        Scorocode.User
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.Messenger/" title="Scorocode.Messenger" class="md-nav__link">
+        Scorocode.Messenger
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.CloudCode/" title="Scorocode.CloudCode" class="md-nav__link">
+        Scorocode.CloudCode
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.Bot/" title="Scorocode.Bot" class="md-nav__link">
+        Scorocode.Bot
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.Websocket/" title="Scorocode.WebSocket" class="md-nav__link">
+        Scorocode.WebSocket
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="JS/Scorocode.System/" title="Scorocode.System" class="md-nav__link">
+        Scorocode.System
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      SWIFT SDK (iOs, Mac OS)
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-4">
+        SWIFT SDK (iOs, Mac OS)
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SWIFT/" title="SWIFT SDK" class="md-nav__link">
+        SWIFT SDK
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SC/" title="SC" class="md-nav__link">
+        SC
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCValue/" title="SCValue" class="md-nav__link">
+        SCValue
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCObject/" title="SCObject" class="md-nav__link">
+        SCObject
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCQuery/" title="SCQuery" class="md-nav__link">
+        SCQuery
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCUpdate/" title="SCUpdate" class="md-nav__link">
+        SCUpdate
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCUser/" title="SCUser" class="md-nav__link">
+        SCUser
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCMessage/" title="SCMessage" class="md-nav__link">
+        SCMessage
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCScript/" title="SCScript" class="md-nav__link">
+        SCScript
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCBot/" title="SCBot" class="md-nav__link">
+        SCBot
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCCollection/" title="SCCollection" class="md-nav__link">
+        SCCollection
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/SCFolder/" title="SCFolder" class="md-nav__link">
+        SCFolder
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/WebSocket/" title="WebSocket" class="md-nav__link">
+        WebSocket
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Java SDK (Android)
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-5">
+        Java SDK (Android)
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Java/" title="Java SDK" class="md-nav__link">
+        Java SDK
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/ScorocodeSDK/" title="Класс ScorocodeSDK" class="md-nav__link">
+        Класс ScorocodeSDK
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Document/" title="Класс Document" class="md-nav__link">
+        Класс Document
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Update/" title="Класс Update" class="md-nav__link">
+        Класс Update
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/User/" title="Класс User" class="md-nav__link">
+        Класс User
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Query/" title="Класс Query" class="md-nav__link">
+        Класс Query
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Script/" title="Класс Script" class="md-nav__link">
+        Класс Script
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Message/" title="Класс Message" class="md-nav__link">
+        Класс Message
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/WebSocket/" title="Класс WebSocket" class="md-nav__link">
+        Класс WebSocket
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/ApplicationInfo/" title="Класс ApplicationInfo" class="md-nav__link">
+        Класс ApplicationInfo
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Bot/" title="Класс Bot" class="md-nav__link">
+        Класс Bot
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Collections/" title="Класс Collections" class="md-nav__link">
+        Класс Collections
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Folders/" title="Класс Folders" class="md-nav__link">
+        Класс Folders
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/ScorocodeScript/" title="Класс ScorocodeScript" class="md-nav__link">
+        Класс ScorocodeScript
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Примеры приложений
+    </label>
+    <nav class="md-nav" data-md-component="collapsible">
+      <label class="md-nav__title" for="nav-6">
+        Примеры приложений
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="Java/Storehouse/" title="Склад (Android)" class="md-nav__link">
+        Склад (Android)
+      </a>
+    
+  </li>
+
+        
+          
+          
+  <li class="md-nav__item">
+    
+      <a href="SWIFT/ToDoList/" title="Список задач (iOs)" class="md-nav__link">
+        Список задач (iOs)
+      </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="Общие сведения" class="md-nav__link">
+    Общие сведения
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="Основные возможности сервиса:" class="md-nav__link">
+    Основные возможности сервиса:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="Пользователи" class="md-nav__link">
+    Пользователи
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+               
+              
+                
+                  <h1>Общие сведения</h1>
+                
+                <p>Добро пожаловать на страницу документации облачного сервиса <a href="https://scorocode.ru/" title="Scorocode | Облачная backend-платформа для любых приложений">Scorocode</a>!</p>
+<p>В документации представлены:</p>
+<ul>
+<li>описание работы с личным кабинетом, приложениями, данными</li>
+<li>документация по HTTP API для реализации работы с облаком на любой платформе</li>
+<li>документация по SDK: WEB сервер/клиент (<a href="https://github.com/Scorocode/scorocode-SDK-JS" title="JavaScript SDK">JavaScript SDK</a>), iOS/Mac OS (<a href="https://github.com/Scorocode/scorocode-SDK-swift" title="Scorocode SWIFT SDK">Swift SDK</a>), Android (<a href="https://github.com/Scorocode/scorocode-SDK-java" title="Scorocode Java SDK">Java SDK</a>).</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Участие приветствуется</p>
+<p>Исходные коды всех SDK, а так же самой документации открыты и размещены на GitHub в <a href="https://github.com/Scorocode" title="Github Scorocode">репозиториях Scorocode</a>. Все замечания, изменения и предложения по каждому репозиторию категорически приветствуются.</p>
+</div>
+<p>Для перехода в нужный раздел документации выберите его в левом меню.</p>
+<h2 id="_1">Общие сведения</h2>
+<p><a href="https://scorocode.ru/">Scorocode</a> - облачная платформа, предоставляющая функции BaaS (Backend as a Service). <a href="https://scorocode.ru/">Scorocode</a> позволяет быстро формировать структуру данных, используя визуальное моделирование коллекций и полей, подключать событийные обработчики данных (триггеры), разрабатывать и запускать серверный JavaScript-код с клиентских приложений и по расписанию.</p>
+<h2 id="_2">Основные возможности сервиса:</h2>
+<ul>
+<li>Полноценная платформа для проектирования backend, бесплатный тариф для небольших приложений;</li>
+<li>Наличие готовых backend функций: отправка СМС и push-уведомлений, файловое хранилище, серверные скрипты и т.д.;</li>
+<li>Хостинг Telegram-ботов;</li>
+<li>Предоставление статистики и аналитики для приложений в режиме 24 Х 7;</li>
+<li>Управление пользователями и их доступом на уровнях приложения, коллекции и документов;</li>
+<li>Документация и примеры использования платформы и SDK на русском языке;</li>
+</ul>
+<p><a href="https://scorocode.ru/">Scorocode</a> предоставляет широкий спектр возможностей по подключению проектов к облачному backend:</p>
+<ul>
+<li>REST API</li>
+<li>JavaScript SDK для web-приложений, как для клиентской, так и для серверной частей</li>
+<li>Swift SDK для разработки приложений на платформах iOS и Mac OS X</li>
+<li>Java SDK для разработки приложений на платформе Android</li>
+</ul>
+<p><a href="https://scorocode.ru/">Scorocode</a> позволяет импортировать данные с облачного сервиса <a href="./parse.com">Parse</a>.</p>
+<p>Перечень возможностей <a href="https://scorocode.ru/">Scorocode</a> и поддерживаемых платформ постоянно растет.</p>
+<h2 id="_3">Пользователи</h2>
+<p>Пользователями <a href="https://scorocode.ru/">Scorocode</a> являются:</p>
+<ul>
+<li>Частные разработчики</li>
+<li>Профессиональные разработчики и команды разработчиков</li>
+<li>Системные интеграторы</li>
+<li>Корпоративные клиенты</li>
+</ul>
+<p>Для частных разработчиков <a href="https://scorocode.ru/">Scorocode</a> является технически простым, недорогим и документированным решением для пробы собственных сил, для создания и быстрого изменения backend для приложений. Профессиональным разработчикам и командам разработчиков <a href="https://scorocode.ru/">Scorocode</a> предоставляет средства поддержки современных сервисов (социальные сети, платежные системы и т.п.) и прозрачную модель тарифов для расчёта стоимости разработки и сопровождения. Для пользователей корпоративного сектора <a href="https://scorocode.ru/">Scorocode</a> предоставляет средства аналитики для повышения эффективности приложений и маркетинга, а также единую платформу для параллельной разработки нескольких проектов.</p>
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+        
+          <a href="main/main1/" title="Начало работы" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Начало работы
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        and
+        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/scorocode" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://www.facebook.com/scorocode" class="md-footer-social__link fa fa-facebook"></a>
+    
+      <a href="https://www.linkedin.com/company/prof-it-group" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="./assets/javascripts/application-2afe21e0b2.js"></script>
+      <script>var config={url:{base:"."}},app=new Application(config);app.initialize()</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
