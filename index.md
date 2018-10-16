@@ -1,6 +1,6 @@
 ## Документация Scorocode
-[описание модуля cli] (https://github.com/k3k6u/test/blob/master/cli.md)
-[описание файловой системы](https://github.com/k3k6u/test/blob/master/file.md)
+[описание модуля cli](./cli.md)
+[описание файловой системы](./file.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/k3k6u/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
