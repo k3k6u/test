@@ -102,7 +102,7 @@ text/plain
 500 application/json
 ```
 ### Переименование каталога   
-   Метод: `PUT`
+Метод: `PUT`
 
 !!! success "Выполнено"
 
@@ -117,7 +117,8 @@ text/plain
 500 application/json
 ```    
 ### Удаление каталога    
-    Метод: `DELETE`
+
+Метод: `DELETE`
 
 !!! success "Выполнено"
 ```markdown
