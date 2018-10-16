@@ -9,42 +9,46 @@
 
 !!! success "Выполнено"
    
-   ```200: application/*
+   ```markdown
+   200: application/*
     image/*  
     text/plain    
     ```
 
 !!! failure "Ошибка"
 	
-	```404 application/json
+```markdown 
+404 application/json
     
-    500 application/json
-    ```
+500 application/json
+```
 
 ### Обновление файла    
 Метод: `POST`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
+
+    ```markdown
+   200: application/json   
     ```
 
 !!! failure "Ошибка"
-	 ```
+
+   ```markdown	 
     400 application/json
     500 application/json
-    ```
+   ```
 
 ### Переименование файла
 Метод: `PUT`
 
 !!! success "Выполнено"
-    ```
+   ```markdown
     200: application/json   
     ```
 
 !!! failure "Ошибка"
-	 ```
+```markdown
     400 application/json
     500 application/json
     ```
