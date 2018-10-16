@@ -1,6 +1,6 @@
 # Документация Scorocode
 ## Начало работы
-Чтобы начать пользоваться scorocode, зарегистрируйтесь по адресу (https://accounts.scorocode.ru/auth)
+Чтобы начать пользоваться scorocode, зарегистрируйтесь по адресу [https://accounts.scorocode.ru/auth](https://accounts.scorocode.ru/auth)
 
 [Работа с личным кабинетом](./docs/lk.md)
 
