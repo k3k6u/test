@@ -1,4 +1,4 @@
-##Работа с файловой системой
+# Работа с файловой системой
 
 **https://api.scorocode.ru/fs/api/v2/files/{pathToFile}**
 
@@ -10,13 +10,16 @@
 !!! success "Выполнено"
     ```
     200: application/*
+    
     image/*
+    
     text/plain    
     ```
 
 !!! failure "Ошибка"
 	 ```
     404 application/json
+    
     500 application/json
     ```
 
