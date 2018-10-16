@@ -9,8 +9,7 @@
 
 !!! success "Выполнено"
    
-   ```
-    200: application/*
+   ```200: application/*
     
     image/*
     
@@ -18,8 +17,8 @@
     ```
 
 !!! failure "Ошибка"
-	 ```
-    404 application/json
+	
+	```404 application/json
     
     500 application/json
     ```
