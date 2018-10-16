@@ -10,9 +10,7 @@
 !!! success "Выполнено"
    
    ```200: application/*
-    
-    image/*
-    
+    image/*  
     text/plain    
     ```
 
