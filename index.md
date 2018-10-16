@@ -10,5 +10,6 @@
 
 [Работа с SDK](./docs/sdk.md)
 
+[Настройка push-уведомолений для Android](./docs/push.md)
 
 
