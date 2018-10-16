@@ -9,17 +9,16 @@
 
 !!! success "Выполнено"
    
-   ```markdown
-   200: application/*
-    image/*  
-    text/plain    
-    ```
+```markdown
+200: application/*
+image/*  
+text/plain    
+```
 
 !!! failure "Ошибка"
 	
 ```markdown 
-404 application/json
-    
+404 application/json    
 500 application/json
 ```
 
@@ -28,43 +27,47 @@
 
 !!! success "Выполнено"
 
-    ```markdown
-   200: application/json   
-    ```
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
 
-   ```markdown	 
-    400 application/json
-    500 application/json
-   ```
+```markdown	 
+400 application/json
+500 application/json
+```
 
 ### Переименование файла
 Метод: `PUT`
 
 !!! success "Выполнено"
-   ```markdown
-    200: application/json   
-    ```
+
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
+
 ```markdown
-    400 application/json
-    500 application/json
-    ```
+400 application/json
+500 application/json
+```
 
 ### Удаление файла
 Метод: `DELETE`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
-    ```
+
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
-	 ```
-    500 application/json
-    ```
+
+```markdown
+500 application/json
+```
     
 ## Работа с каталогами
 
@@ -74,48 +77,54 @@
 Метод: `GET`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
-    ```
+
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
-	 ```
-    500 application/json
-    ```
+
+```markdown
+500 application/json
+```
 ### Создание нового каталога
 Метод: `POST`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
-    ```
+
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
-	 ```
-    500 application/json
-    ```
+
+```markdown
+500 application/json
+```
 ### Переименование каталога   
    Метод: `PUT`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
-    ```
+
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
-	 ```
-	 400 application/json
-    500 application/json
-    ```    
+
+```markdown
+400 application/json
+500 application/json
+```    
 ### Удаление каталога    
     Метод: `DELETE`
 
 !!! success "Выполнено"
-    ```
-    200: application/json   
-    ```
+```markdown
+200: application/json   
+```
 
 !!! failure "Ошибка"
-	 ```
-    500 application/json
-    ```
+```markdown
+500 application/json
+```
